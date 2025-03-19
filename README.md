@@ -1,10 +1,5 @@
 
----
-
-### README.md for Climate Change Sentiment Analysis
-
-```markdown
-# Climate Change Sentiment Analysis
+###Climate Change Sentiment Analysis
 
 ## Project Overview
 This project performs sentiment analysis on social media data to understand public opinion on climate change. By processing and analyzing textual data, the project aims to reveal sentiment trends and provide insights into the general attitude toward climate change topics.
